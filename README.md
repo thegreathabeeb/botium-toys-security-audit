@@ -10,7 +10,7 @@ I approached this project as if I were a security consultant hired by Botium Toy
 - Provide practical, risk-based recommendations.  
 
 ## Deliverables  
-- [Audit Report](AUDIT_REPORT.md) – full findings and recommendations  
+- [Audit Report](audit_report.md) – full findings and recommendations  
 - Evidence folder – supporting screenshots and documentation  
 
 ## Skills Demonstrated  
